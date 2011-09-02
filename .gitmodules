@@ -1,0 +1,9 @@
+[submodule "Source/OAuth2"]
+	path = Source/OAuth2
+	url = git://github.com/yoyot1/gtm-oauth2-source.git
+[submodule "Source/HTTPFetcher"]
+	path = Source/HTTPFetcher
+	url = git://github.com/yoyot1/gtm-http-fetcher-source.git
+[submodule "Source/JSON"]
+	path = Source/JSON
+	url = git://github.com/yoyot1/json-framework-2.1.1-source.git
